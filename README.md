@@ -1,4 +1,8 @@
-### Hi there 👋 I'm Jose, a software and civil engineer!
+### Hi there 👋 I am Jose Oropeza!
+---
+
+A  civil engineer and full stack software engineer with a strong background in project managment and the development and implementation of full stack applications.
+
 ---
 #### :toolbox:   Devloper Tools  
 
