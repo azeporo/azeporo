@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Jose, a software and civil engineer!
-:toolbox: Devloper Tools  
+---
+#### :toolbox:   Devloper Tools  
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" height="50px" width="50px"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" height="50px" width="50px"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" height="50px" width="50px"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask Logo" height="50px" width="50px"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML Logo" height="50px" width="50px"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" height="50px" width="50px"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="GIT Logo" height="50px" width="50px"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="JQuery Logo" height="50px" width="50px"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy Logo" height="50px" width="50px">
 
