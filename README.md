@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Jose</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azeporo&label=Profile%20views&color=0e75b6&style=flat" alt="azeporo" /> </p>
 
 <p>I'm a self taught full stack developer with a strong engineering background and extensive project management experience. I have experience creating clean and responsive full stack applications and have a solid understanding of data structures and algorithms. I am currently looking to join a team where I can make a meaningful impact as well as continue to grow as a developer.</P>
 
