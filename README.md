@@ -2,8 +2,8 @@
 
 <p>I'm a self taught full stack developer with a strong engineering background and extensive project management experience. I have experience creating clean and responsive full stack applications and have a solid understanding of data structures and algorithms. I am currently looking to join a team where I can make a meaningful impact as well as continue to grow as a developer.</P>
 
-
-- 🚌 I’m currently learning **TypeScript**
+<!-- 
+- 🚌 I’m currently learning **TypeScript** -->
 
 - 💼 My most recent projects are available at [https://azeporo.dev/](https://azeporo.dev/)
 
